@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @BHRO
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<h1> Bruno Henrique R de Oliveira</h1>
+
+<div>
+<a href="https://github.com/BHRO">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BHRO&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BHRO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
